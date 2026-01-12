@@ -17,11 +17,11 @@ Public health agencies need reliable real-time data to track disease outbreaks. 
 │  disease.sh  │────▶│   Validator  │────▶│   SQLite    │
 │     API      │     │  (Pydantic)  │     │  Database   │
 └──────────────┘     └──────────────┘     └─────────────┘
-│                    │                     │
-│                    │                     │
-▼                    ▼                     ▼
-Retry Logic       Schema Validation      Error Logging
-Rate Handling     Range Checking         Surge Detection
+       │                    │                     │
+       │                    │                     │
+       ▼                    ▼                     ▼
+  Retry Logic       Schema Validation      Error Logging
+  Rate Handling     Range Checking         Surge Detection
 
 ## Quick Start
 
@@ -153,20 +153,29 @@ With more time, I would add:
 6. **CI/CD**: GitHub Actions for automated testing
 7. **API**: REST API for querying historical data
 
-## 📁 Project Structure
+## Project Structure
 public_health_monitor/
 ├── src/
-│   ├── api_client.py       # disease.sh API client
-│   ├── validator.py        # Pydantic validation
-│   ├── database.py         # SQLite operations
-│   └── logger.py           # Logging setup
-├── tests/                  # 85%+ coverage
-├── logs/                   # Daily log files
-├── data/                   # SQLite database
-├── main.py                 # Main pipeline
-├── health_check.py         # Flask API
-├── config.py               # Configuration
-└── README.md              # This file
+│   ├── __init__.py
+│   ├── api_client.py          # disease.sh API client with retry logic
+│   ├── validator.py           # Pydantic data validation
+│   ├── database.py            # SQLite operations & analytics
+│   └── logger.py              # Structured logging setup
+├── tests/
+│   ├── __init__.py
+│   ├── conftest.py            # Pytest fixtures
+│   ├── test_api_client.py     # API client tests (mocked)
+│   ├── test_validator.py      # Validation logic tests
+│   └── test_database.py       # Database operation tests
+├── logs/                       # Daily log files (generated)
+├── htmlcov/                    # Test coverage reports (generated)
+├── .gitignore                  # Git exclusions
+├── config.py                   # Configuration settings
+├── main.py                     # Main data collection pipeline
+├── health_check.py             # Flask health monitoring API
+├── requirements.txt            # Python dependencies
+├── public_health_data.db       # SQLite database (generated)
+└── README.md                   # Project documentation
 
 ## Author
 
