@@ -178,7 +178,7 @@ public_health_monitor/
 
 ## Author
 
-**Rica Mae Pitogo*
+**Rica Mae Pitogo**
 - GitHub: [ricapitogo-prog](https://github.com/ricapitogo-prog)
 - LinkedIn: [Rica Mae Pitogo](https://www.linkedin.com/in/rica-mae-pitogo-a7aa10193/)
 
