@@ -1,0 +1,305 @@
+2026-01-07 11:23:16 - __main__ - INFO - Public Health Monitor starting up
+2026-01-07 11:23:16 - __main__ - INFO - Monitoring countries: USA, UK, Canada, Germany, Japan
+2026-01-07 11:23:16 - __main__ - INFO - Will fetch data every 10 minutes
+2026-01-07 11:23:16 - __main__ - INFO - ============================================================
+2026-01-07 11:23:16 - __main__ - INFO - Starting public health data collection
+2026-01-07 11:23:16 - __main__ - INFO - Fetching global statistics...
+2026-01-07 11:23:17 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 11:23:17 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 11:23:22 - __main__ - INFO - USA: 0 cases today
+2026-01-07 11:23:22 - __main__ - INFO - UK: 0 cases today
+2026-01-07 11:23:22 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 11:23:22 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 11:23:22 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 11:23:22 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 11:23:22 - __main__ - INFO - Data collection cycle complete
+2026-01-07 11:23:22 - __main__ - INFO - Scheduler started. Press Ctrl+C to stop.
+2026-01-07 11:33:22 - __main__ - INFO - ============================================================
+2026-01-07 11:33:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 11:33:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 11:33:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 11:33:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 11:33:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 11:33:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 11:33:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 11:33:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 11:33:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 11:33:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 11:33:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 11:43:22 - __main__ - INFO - ============================================================
+2026-01-07 11:43:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 11:43:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 11:43:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 11:43:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 11:43:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 11:43:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 11:43:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 11:43:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 11:43:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 11:43:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 11:43:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 15:03:23 - __main__ - INFO - ============================================================
+2026-01-07 15:03:23 - __main__ - INFO - Starting public health data collection
+2026-01-07 15:03:23 - __main__ - INFO - Fetching global statistics...
+2026-01-07 15:03:24 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 15:03:24 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 15:03:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 15:03:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 15:03:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 15:03:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 15:03:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 15:03:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 15:03:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 15:23:22 - __main__ - INFO - ============================================================
+2026-01-07 15:23:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 15:23:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 15:23:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 15:23:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 15:23:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 15:23:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 15:23:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 15:23:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 15:23:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 15:23:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 15:23:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 16:03:22 - __main__ - INFO - ============================================================
+2026-01-07 16:03:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 16:03:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 16:03:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 16:03:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 16:03:27 - __main__ - INFO - USA: 0 cases today
+2026-01-07 16:03:27 - __main__ - INFO - UK: 0 cases today
+2026-01-07 16:03:27 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 16:03:27 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 16:03:27 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 16:03:27 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 16:03:27 - __main__ - INFO - Data collection cycle complete
+2026-01-07 16:33:22 - __main__ - INFO - ============================================================
+2026-01-07 16:33:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 16:33:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 16:33:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 16:33:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 16:33:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 16:33:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 16:33:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 16:33:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 16:33:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 16:33:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 16:33:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 16:43:22 - __main__ - INFO - ============================================================
+2026-01-07 16:43:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 16:43:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 16:43:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 16:43:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 16:43:29 - __main__ - INFO - USA: 0 cases today
+2026-01-07 16:43:29 - __main__ - INFO - UK: 0 cases today
+2026-01-07 16:43:29 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 16:43:29 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 16:43:29 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 16:43:29 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 16:43:29 - __main__ - INFO - Data collection cycle complete
+2026-01-07 16:53:22 - __main__ - INFO - ============================================================
+2026-01-07 16:53:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 16:53:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 16:53:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 16:53:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 16:53:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 16:53:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 16:53:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 16:53:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 16:53:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 16:53:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 16:53:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 17:03:22 - __main__ - INFO - ============================================================
+2026-01-07 17:03:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 17:03:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 17:03:22 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 17:03:22 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 17:03:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 17:03:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 17:03:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 17:03:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 17:03:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 17:03:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 17:03:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 17:13:22 - __main__ - INFO - ============================================================
+2026-01-07 17:13:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 17:13:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 17:13:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 17:13:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 17:13:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 17:13:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 17:13:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 17:13:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 17:13:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 17:13:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 17:13:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 18:13:22 - __main__ - INFO - ============================================================
+2026-01-07 18:13:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 18:13:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 18:13:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 18:13:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 18:13:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 18:13:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 18:13:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 18:13:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 18:13:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 18:13:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 18:13:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 18:23:22 - __main__ - INFO - ============================================================
+2026-01-07 18:23:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 18:23:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 18:23:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 18:23:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 18:23:29 - __main__ - INFO - USA: 0 cases today
+2026-01-07 18:23:29 - __main__ - INFO - UK: 0 cases today
+2026-01-07 18:23:29 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 18:23:29 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 18:23:29 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 18:23:29 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 18:23:29 - __main__ - INFO - Data collection cycle complete
+2026-01-07 18:33:22 - __main__ - INFO - ============================================================
+2026-01-07 18:33:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 18:33:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 18:33:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 18:33:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 18:33:29 - __main__ - INFO - USA: 0 cases today
+2026-01-07 18:33:29 - __main__ - INFO - UK: 0 cases today
+2026-01-07 18:33:29 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 18:33:29 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 18:33:29 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 18:33:29 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 18:33:29 - __main__ - INFO - Data collection cycle complete
+2026-01-07 18:43:22 - __main__ - INFO - ============================================================
+2026-01-07 18:43:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 18:43:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 18:43:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 18:43:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 18:43:29 - __main__ - INFO - USA: 0 cases today
+2026-01-07 18:43:29 - __main__ - INFO - UK: 0 cases today
+2026-01-07 18:43:29 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 18:43:29 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 18:43:29 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 18:43:29 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 18:43:29 - __main__ - INFO - Data collection cycle complete
+2026-01-07 18:53:22 - __main__ - INFO - ============================================================
+2026-01-07 18:53:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 18:53:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 18:53:24 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 18:53:24 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 18:53:30 - __main__ - INFO - USA: 0 cases today
+2026-01-07 18:53:30 - __main__ - INFO - UK: 0 cases today
+2026-01-07 18:53:30 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 18:53:30 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 18:53:30 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 18:53:30 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 18:53:30 - __main__ - INFO - Data collection cycle complete
+2026-01-07 19:03:22 - __main__ - INFO - ============================================================
+2026-01-07 19:03:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 19:03:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 19:03:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 19:03:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 19:03:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 19:03:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 19:03:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 19:03:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 19:03:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 19:03:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 19:03:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 19:13:22 - __main__ - INFO - ============================================================
+2026-01-07 19:13:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 19:13:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 19:13:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 19:13:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 19:13:33 - __main__ - INFO - USA: 0 cases today
+2026-01-07 19:13:33 - __main__ - INFO - UK: 0 cases today
+2026-01-07 19:13:33 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 19:13:33 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 19:13:33 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 19:13:33 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 19:13:33 - __main__ - INFO - Data collection cycle complete
+2026-01-07 19:23:22 - __main__ - INFO - ============================================================
+2026-01-07 19:23:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 19:23:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 19:23:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 19:23:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 19:23:29 - __main__ - INFO - USA: 0 cases today
+2026-01-07 19:23:29 - __main__ - INFO - UK: 0 cases today
+2026-01-07 19:23:29 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 19:23:29 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 19:23:29 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 19:23:29 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 19:23:29 - __main__ - INFO - Data collection cycle complete
+2026-01-07 19:33:22 - __main__ - INFO - ============================================================
+2026-01-07 19:33:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 19:33:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 19:33:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 19:33:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 19:33:29 - __main__ - INFO - USA: 0 cases today
+2026-01-07 19:33:29 - __main__ - INFO - UK: 0 cases today
+2026-01-07 19:33:29 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 19:33:29 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 19:33:29 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 19:33:29 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 19:33:29 - __main__ - INFO - Data collection cycle complete
+2026-01-07 19:43:22 - __main__ - INFO - ============================================================
+2026-01-07 19:43:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 19:43:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 19:43:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 19:43:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 19:43:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 19:43:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 19:43:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 19:43:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 19:43:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 19:43:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 19:43:28 - __main__ - INFO - Data collection cycle complete
+2026-01-07 19:53:22 - __main__ - INFO - ============================================================
+2026-01-07 19:53:22 - __main__ - INFO - Starting public health data collection
+2026-01-07 19:53:22 - __main__ - INFO - Fetching global statistics...
+2026-01-07 19:53:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-07 19:53:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-07 19:53:28 - __main__ - INFO - USA: 0 cases today
+2026-01-07 19:53:28 - __main__ - INFO - UK: 0 cases today
+2026-01-07 19:53:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-07 19:53:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-07 19:53:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-07 19:53:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-07 19:53:28 - __main__ - INFO - Data collection cycle complete
+2026-01-08 05:43:22 - __main__ - INFO - ============================================================
+2026-01-08 05:43:22 - __main__ - INFO - Starting public health data collection
+2026-01-08 05:43:22 - __main__ - INFO - Fetching global statistics...
+2026-01-08 05:43:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-08 05:43:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-08 05:43:28 - __main__ - INFO - USA: 0 cases today
+2026-01-08 05:43:28 - __main__ - INFO - UK: 0 cases today
+2026-01-08 05:43:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-08 05:43:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-08 05:43:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-08 05:43:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-08 05:43:28 - __main__ - INFO - Data collection cycle complete
+2026-01-08 05:53:22 - __main__ - INFO - ============================================================
+2026-01-08 05:53:22 - __main__ - INFO - Starting public health data collection
+2026-01-08 05:53:22 - __main__ - INFO - Fetching global statistics...
+2026-01-08 05:53:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-08 05:53:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-08 05:53:28 - __main__ - INFO - USA: 0 cases today
+2026-01-08 05:53:28 - __main__ - INFO - UK: 0 cases today
+2026-01-08 05:53:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-08 05:53:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-08 05:53:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-08 05:53:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-08 05:53:28 - __main__ - INFO - Data collection cycle complete
+2026-01-08 06:03:22 - __main__ - INFO - ============================================================
+2026-01-08 06:03:22 - __main__ - INFO - Starting public health data collection
+2026-01-08 06:03:22 - __main__ - INFO - Fetching global statistics...
+2026-01-08 06:03:23 - __main__ - INFO - Global: 704,753,890 cases, 0 today
+2026-01-08 06:03:23 - __main__ - INFO - Fetching data for 5 countries...
+2026-01-08 06:03:28 - __main__ - INFO - USA: 0 cases today
+2026-01-08 06:03:28 - __main__ - INFO - UK: 0 cases today
+2026-01-08 06:03:28 - __main__ - INFO - Canada: 0 cases today
+2026-01-08 06:03:28 - __main__ - INFO - Germany: 0 cases today
+2026-01-08 06:03:28 - __main__ - INFO - Japan: 0 cases today
+2026-01-08 06:03:28 - __main__ - INFO - Successfully stored data for 5/5 countries
+2026-01-08 06:03:28 - __main__ - INFO - Data collection cycle complete
+2026-01-08 06:05:32 - __main__ - INFO - Scheduler stopped by user
