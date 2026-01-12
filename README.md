@@ -10,7 +10,6 @@ Public health agencies need reliable real-time data to track disease outbreaks. 
 - **Surge detection**: Alert when daily cases increase >5%
 - **Historical tracking**: Store all data for trend analysis
 
-**Business Value**: Demonstrates ability to build production health data pipelines with robust error handling.
 
 ## Architecture
 ┌──────────────┐     ┌──────────────┐     ┌─────────────┐
@@ -179,7 +178,7 @@ public_health_monitor/
 
 ## Author
 
-**Your Name**
+**Rica Mae Pitogo*
 - GitHub: [ricapitogo-prog](https://github.com/ricapitogo-prog)
 - LinkedIn: [Rica Mae Pitogo](https://www.linkedin.com/in/rica-mae-pitogo-a7aa10193/)
 
