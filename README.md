@@ -12,6 +12,7 @@ Public health agencies need reliable real-time data to track disease outbreaks. 
 
 
 ## Architecture
+```
 ┌──────────────┐     ┌──────────────┐     ┌─────────────┐
 │  disease.sh  │────▶│   Validator  │────▶│   SQLite    │
 │     API      │     │  (Pydantic)  │     │  Database   │
@@ -21,6 +22,7 @@ Public health agencies need reliable real-time data to track disease outbreaks. 
        ▼                    ▼                     ▼
   Retry Logic       Schema Validation      Error Logging
   Rate Handling     Range Checking         Surge Detection
+```
 
 ## Quick Start
 
@@ -153,6 +155,7 @@ With more time, I would add:
 7. **API**: REST API for querying historical data
 
 ## Project Structure
+```
 public_health_monitor/
 ├── src/
 │   ├── __init__.py
@@ -175,6 +178,7 @@ public_health_monitor/
 ├── requirements.txt            # Python dependencies
 ├── public_health_data.db       # SQLite database (generated)
 └── README.md                   # Project documentation
+```
 
 ## Author
 
